@@ -37,7 +37,7 @@ For this session, participants learn to:
 
 ## **📚 Materials**
 
-- `slides/hypothesis_testing.pptx` is the active lecture deck.
+- `slides/sampling_standardisation.pptx` is the active lecture deck.
 
 - `R/4_exercise_lm.R` through `R/6_exercise_aic.R` are the active exercises.
 
